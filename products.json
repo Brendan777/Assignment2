@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Dior x Starbucks Backpack",
+    "price": 599.99,
+    "qty_available": 50,
+    "image": "./images/Dior.png"
+  },
+  {
+    "name": "Balenciaga x Taco Bell Backpack",
+    "price": 799.99,
+    "qty_available": 50,
+    "image": "./images/Balenciaga.png"
+  },
+  {
+    "name": "Nike x Papa John's Backpack",
+    "price": 49.99,
+    "qty_available": 50,
+    "image": "./images/Nike.png"
+  },
+  {
+    "name": "Louis Vuitton x McDonald's Backpack",
+    "price": 799.99,
+    "qty_available": 50,
+    "image": "./images/LV.png"
+  },
+  {
+    "name": "Adidas x KFC Backpack",
+    "price": 39.99,
+    "qty_available": 50,
+    "image": "./images/Adidas.png"
+  }
+]

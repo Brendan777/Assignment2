@@ -1,0 +1,10 @@
+{
+  "bchar2@hawaii.edu": {
+    "name": "Brendan",
+    "password": "b"
+  },
+  "itm352@hawaii.edu": {
+    "name": "ITM 352",
+    "password": "grader"
+  }
+}
